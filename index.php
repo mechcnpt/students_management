@@ -12,7 +12,7 @@
             <img src="logo.png" alt="College Logo">
         </div>
         <div class="college-info">
-            <h1>College Name</h1>
+            <h1>P.T.Lee Chengalvaraya Naicker Polytehcnic College</h1>
             <h2>Department of Mechanical Engineering</h2>
         </div>
     </header>
